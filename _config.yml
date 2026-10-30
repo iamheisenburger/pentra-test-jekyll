@@ -1,0 +1,5 @@
+title: Pentra Test Jekyll
+description: A stock Jekyll blog used to test Pentra's GitHub publishing.
+theme: minima
+baseurl: "/pentra-test-jekyll"
+url: "https://iamheisenburger.github.io"
